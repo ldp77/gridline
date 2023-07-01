@@ -2,6 +2,8 @@
 
 This project seeks to provide an objective preview of the 2023 College Football season by extrapolating the maximum amount of information possible through analysis of preseason betting lines. 
 
+Rather than making predictions, in this project, betting lines will be used to paint a probabilistic picture of the 2023 season. This picture will include a game by game breakdown of the schedule, the probability of each possible win total from 0-12, neutral field lines for hypothetical matchups across college football, and more for each team in the FBS.
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
@@ -19,7 +21,7 @@ This project is based on the idea that a point spread provides unbiased, thoroug
 > 
 > Oddsmakers set the value of the point spread such that each team has an equal likelihood to "cover the spread", which means "win after the point spread is factored in."
 > 
-> In other words, Given the final score of a game, the value of the point spread is subtracted from the winning team's score, and the team that has more points after that subtraction is the team that covered the spread.
+> In other words, Given the final score of a game, the value of the point spread is subtracted from the favorite's score, and the team that has more points after that subtraction is the team that covered the spread.
 > 
 > Ex. If Texas A&M beat Miami 30-21, since the point spread was Texas A&M -6.5, Texas A&M covers the spread because they have more points even after the 6.5 was subtracted from their score.
 
