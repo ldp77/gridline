@@ -4,80 +4,66 @@ This project seeks to provide an objective preview of the 2023 College Football 
 
 Rather than making predictions, in this project, betting lines will be used to paint a probabilistic picture of the 2023 season. This picture will include a game by game breakdown of the schedule, the probability of each possible win total from 0-12, neutral field lines for hypothetical matchups across college football, and more for each team in the FBS.
 
+A web interface is a work in progress, but for now, the report, which contains a breakdown for every FBS team can be found [here](fbs-reports.txt)
+
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [The Model](#themodel)
+1. Introduction
+2. The Model
+3. Technical Implementation
 
-# Introduction <a id="introduction"></a>
+# Context
 
-## Why Point Spreads?
+The basic idea behind this project is that betting lines listed by sportsbooks provide a well researched and unbiased view of the difference in strength between two teams, with the reasoning that if oddsmakers were inaccurate on average, then people could win money from the sportsbook by exploiting that inaccuracy (which does not happen).
 
-This project is based on the idea that a point spread provides unbiased, thoroughly researched insight into the difference in relative strength between two college football teams. 
-
-> __Point Spread:__ A bet on the margin of victory in a sporting event.
+> __Point Spread:__ A number of points, determined by oddsmakers, by which the favorite is projected to beat the underdog. Indicates the difference in strength between the two teams.
 > 
-> For example, "Texas A&M (-6.5) @ Miami" is a point spread which means that Texas A&M is favored by 6.5 points. "Texas A&M @ Miami (+6.5)" means the same thing.
-> 
-> Oddsmakers set the value of the point spread such that each team has an equal likelihood to "cover the spread", which means "win after the point spread is factored in."
-> 
-> In other words, Given the final score of a game, the value of the point spread is subtracted from the favorite's score, and the team that has more points after that subtraction is the team that covered the spread.
-> 
-> Ex. If Texas A&M beat Miami 30-21, since the point spread was Texas A&M -6.5, Texas A&M covers the spread because they have more points even after the 6.5 was subtracted from their score.
+> Example: Texas A&M is a 3 point favorite against Arkansas, the point spread is 3, and oddsmakers would list this as "Arkansas +3 vs. Texas A&M" (or equivalently "Texas A&M -3 vs Arkansas")
 
-Sportsbooks are strongly incentivized to ensure their point spreads are as precise as possible, because inaccurate point spreads would enable people to bet on one side of the point spread and win money from the sportsbook. Because of this incentive, sportsbooks invest a tremendous amount of resources into machine learning models, consultants, and potentially insider information in order to ensure that they are able to generate the most precise line possible for a game. 
+This project uses point spreads that have been listed ahead of the upcoming season to create what should be an accurate and unbiased forecast of how each team could perform this year.
 
-As most sportsbooks are very successful financial enterprises, we can see that, while not perfect for every matchup, point spreads are very strong indicators (I would argue the strongest indicators available short of a crystal ball) of the difference between the strength of two teams. 
+# The Model
 
-## What Else Can Point Spreads Tell Us?
+Sportsbooks have published lines for quite a few games for the upcoming season (126 as of June), but they have not listed lines for every game. The published lines are a good start for analysis, but there is a way to get even more reliable lines to analyze. 
 
-As stated above, point spreads indicate the predicted margin of victory for a given matchup. This is useful in and of itself for someone who wants an objective view of each team's chances to win the game, whether the game is likely to be close, etc. But it there is more information that point spreads can tell us, especially when we have access to a large number of them. 
+If we have two point spreads involving a common opponent, let's say Georgia -10 vs LSU and LSU -2 vs Florida State, then we can apply the transitive property and say that Georgia would be about a 12 point favorite over Florida State.
 
-First, point spreads are strongly correlated to a team's win probability. This should stand to reason, as a team who is favored by a large margin has a high probability to win the game, and a team favored by a narrow margin has a win probability of slightly over 50%. [This article](https://www.boydsbets.com/college-football-spread-to-moneyline-conversion/) provides a table which maps the value of a point spread to both the favorite's and the underdog's win probability. 
+> Note: The transitive property is famously ineffective when applied to __outcomes of games__ in sports. But Point spreads are not outcomes of games, they are estimates in the difference in relative strength between two teams. The transitive property works much better here
 
-Now, instead of simply a predicted margin of victory, a point spread can indicate win probability as well.
+> Note: In point spreads for actual games, home field advantage is a factor, and the actual model takes this into account. For the sake of simplicity, the given example assumes all neutral site games
 
-Having the point spread and win probability for one game is good, but having this information for many games is better, as then you can start to analyze things like (to name a few):
-- The expected number of wins for each team
-- The number of games on a team's schedule in which they are favored, and the number in which they are the underdog
-- The probability of a team winning N games for all possible values of N
+**Using this idea, the number of lines available for analysis increased from 126 to 2296.**
 
-And to reiterate, there are many models that seek to predict exactly this information. The difference here is the use of published point spreads, which are by their nature effective at being accurate and unbiased.
+# Implementation
 
-# The Model <a id="themodel"></a>
+The technical implementation involved numerous components intended to accomplish necessary tasks such as:
 
-## Indirect / Transitive Lines
+### Scraping Data from the Internet
 
-As of June 2023, there are preseason lines for 126 matchups that will take place this season. This means that for 126 games, we have access to the relative difference in strength between two teams, months before the season is set to begin. While this is powerful in and of itself, we can do a lot more with some knowledge about point spreads, and some basic math.
+- The point spreads for the project came from 2 sources: [Draftkings Sportsbook](https://sportsbook.draftkings.com/leagues/football/ncaaf) and [VegasInsider](https://www.vegasinsider.com/college-football/odds/las-vegas/)
+- Data on the 2023 season schedule was scraped from [FBSchedules](https://fbschedules.com/)
 
-Let’s say I want to know the point spread for the Texas A&M vs. Mississippi State game. I look it up, but there is no point spread published for this game right now. However, there is a line published for Texas A&M vs. Ole Miss, and a line for Ole Miss vs. Mississippi State. Since a point spread is a measure the difference between relative strength between two teams, we can apply the transitive property to calculate the line between A&M and MSU. 
+Data from these sources was saved as HTML
 
-We’ll take the two published lines:
-> Texas A&M +3.5 @ Ole Miss (Texas A&M is a 3.5 point underdog on the road vs Ole Miss)
-> 
-> Mississippi State +1.5 vs Ole Miss (MSU is a 1.5 point underdog at home vs Ole Miss)
+- Data from the [ESPN FPI](https://www.espn.com/college-football/fpi) was used for the subset of games for which no line could be calculated (saved as CSV)
 
-Now we have to adjust for home field advantage. Oddsmakers factor in the location of the matchup because the team playing on their home field is thought to have an advantage. In college football, 3 points is often used as a good general estimate for the value of home field advantage in a point spread.
+### Parsing the HTML data
 
-> Note: because of home field advantage, when you hear analysis of how two teams compare to each other, it is often phrased something like “This team would be favored over that team by (some amount) on a neutral field.” The point of this is to factor out any home field advantage and purely assess the two teams relative strengths against each other
+For each source of HTML data, there is a Python script to parse the data and extract all of the desired data type therein (either point spread or matchup on schedule). Once all of the parsing is done, the data is saved as JSON
 
-So when we want to calculate the line between Texas A&M and Mississippi State, we first need to adjust the published lines to represent a neutral field. 
+### Performing Calculations
 
-Texas A&M is a 3.5 point underdog on the road vs Ole Miss. If this game were moved to a neutral site, Ole Miss (formerly the home team) would lose home field advantage (3 points), so the new line would be:
+The calculation engine reads the JSON data and creates a pandas DataFrame of all known point spreads.
 
-Texas A&M +0.5 N Ole Miss
+This is then used to calculate all possible transitive lines. New transitive lines are saved as JSON and fed back into the calculation engine, and so on until all possible lines have been calculated from the original set of lines.
 
-Applying the same logic to the other line, Mississippi State would lose home field advantage against Ole Miss, meaning their new line would be:
+### Generating Team Reports
 
-Mississippi State +4.5 N Ole Miss
+Referring to the known set of lines, the schedule, and the FPI as needed, calculates a report (via a Python class) containing the following information:
 
-We can now take the difference, and calculate that, on a neutral field, Texas A&M would be favored by 4 points against Mississippi State. 
-Finally, we can circle all the way back to the upcoming season’s schedule, when Texas A&M will be the home team for their matchup vs Mississippi State. Texas A&M will gain home field advantage, so we can predict a line of
-
-Texas A&M -7 vs Mississippi State.
-
-The ability to calculate this line is powerful, as now we have an assessment of Texas A&M’s relative strength vs Mississippi State, based entirely on published point spreads, which we didn’t have before. With this approach we were able to take the initial 126 lines and calculate 131 additional lines. 
-
-However, to calculate this line, we needed the two teams to have a common opponent (Ole Miss). Not all matchups had such a common opponent to use as a basis for this calculation. But after calculating the 131 new lines, there are now many more point spreads to consider when looking for common opponents. We can incorporate both the 126 original lines and the 131 new lines, and perform the calculation again to generate even more, and so on and so on. 
-
-**In all, we took 126 original lines and calculated 2292 lines that are based only on published point spreads, and the above calculation using common opponents.**
+- Team Name
+- Game by Game breakdown of the team's schedule: Calculated point spread, and team's probability to win
+- Number of games in which the team is favored, and number in which they are the underdog
+- Statistically expected number of wins
+- Percent chance of each possible win total from 0-12
+- List of all lines that could be calculated for that team, adjusted to a neutral field
