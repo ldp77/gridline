@@ -21,7 +21,7 @@ import json
 from bs4 import BeautifulSoup
 import common_utils
 
-DATA_BASE_DIRECTORY = '623-01'
+DATA_BASE_DIRECTORY = '524-01'
 
 class MatchupSide:
     '''
@@ -47,6 +47,8 @@ def parse_table_record(tr, source_idx):
     line_text = re.findall('aria-label="(.+?)"', str(relevant_div))
     if len(line_text) > 0:
         line_text = line_text[0]
+        if not bool(re.search('\d+', line_text)):
+            line_text += '0'
         line_text_split = line_text.split()
         team_name = ' '.join(line_text_split[:-1])
         line = line_text_split[-1]

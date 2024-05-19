@@ -3,14 +3,14 @@ import pandas as pd
 import common_utils
 
 HOME_FIELD_ADVANTAGE = 3
-DATA_BASE_DIRECTORY = '623-01'
-DEBUG = False
+DATA_BASE_DIRECTORY = '524-01'
+DEBUG = True
 
 # Specify the files (in order) to read lines from
 # Once a line for a matchup is found in one of these files, it will not be updated if found in a later file
 infilenames = [
     'draftkings.json',
-    'vegasinsider.json'
+    # 'vegasinsider.json'
 ]
 infilenames += [f'indirectlines-{n}.json' for n in range(1,9)]
 infilenames = [f'{DATA_BASE_DIRECTORY}/json/{filename}' for filename in infilenames]
