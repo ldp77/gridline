@@ -3,7 +3,7 @@ import re
 import common_utils
 import json
 
-DATA_BASE_DIRECTORY = '623-01'
+DATA_BASE_DIRECTORY = '524-01'
 
 def parse_td(td):
     soup_td = td
@@ -38,7 +38,8 @@ with open(f'{DATA_BASE_DIRECTORY}/html/fbschedules.html' , 'r') as infile:
     html_content = infile.read()
 soup = BeautifulSoup(html_content, 'html.parser')
 
-all_td = soup.find_all('td', class_='spring1')
+# all_td = soup.find_all('td', class_='spring1')
+all_td = soup.find_all('td', class_=re.compile(r'spring1'))
 all_matchups = []
 for i in range(len(all_td)):
     matchup = parse_td(all_td[i])

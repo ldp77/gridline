@@ -1,0 +1,2422 @@
+[
+  {
+    "home_team": "New Mexico",
+    "away_team": "Montana St.",
+    "neutral": false
+  },
+  {
+    "home_team": "Florida State",
+    "away_team": "Georgia Tech",
+    "neutral": true
+  },
+  {
+    "home_team": "Nevada",
+    "away_team": "SMU",
+    "neutral": false
+  },
+  {
+    "home_team": "Hawai'i",
+    "away_team": "Delaware St.",
+    "neutral": false
+  },
+  {
+    "home_team": "Utah",
+    "away_team": "Southern Utah",
+    "neutral": false
+  },
+  {
+    "home_team": "Minnesota",
+    "away_team": "North Carolina",
+    "neutral": false
+  },
+  {
+    "home_team": "North Carolina State",
+    "away_team": "Western Carolina",
+    "neutral": false
+  },
+  {
+    "home_team": "Wake Forest",
+    "away_team": "North Carolina A&T",
+    "neutral": false
+  },
+  {
+    "home_team": "UCF",
+    "away_team": "New Hampshire",
+    "neutral": false
+  },
+  {
+    "home_team": "Kansas",
+    "away_team": "Lindenwood",
+    "neutral": false
+  },
+  {
+    "home_team": "Illinois",
+    "away_team": "Eastern Illinois",
+    "neutral": false
+  },
+  {
+    "home_team": "Missouri",
+    "away_team": "Murray State",
+    "neutral": false
+  },
+  {
+    "home_team": "Arkansas",
+    "away_team": "UAPB",
+    "neutral": false
+  },
+  {
+    "home_team": "Duke",
+    "away_team": "Elon",
+    "neutral": false
+  },
+  {
+    "home_team": "Stanford",
+    "away_team": "TCU",
+    "neutral": false
+  },
+  {
+    "home_team": "Oklahoma",
+    "away_team": "Temple",
+    "neutral": false
+  },
+  {
+    "home_team": "Clemson",
+    "away_team": "Georgia",
+    "neutral": true
+  },
+  {
+    "home_team": "Texas",
+    "away_team": "Colorado State",
+    "neutral": false
+  },
+  {
+    "home_team": "Mississippi State",
+    "away_team": "Eastern Kentucky",
+    "neutral": false
+  },
+  {
+    "home_team": "Ole Miss",
+    "away_team": "Furman",
+    "neutral": false
+  },
+  {
+    "home_team": "Texas A&M",
+    "away_team": "Notre Dame",
+    "neutral": false
+  },
+  {
+    "home_team": "Florida",
+    "away_team": "Miami (FL)",
+    "neutral": false
+  },
+  {
+    "home_team": "Alabama",
+    "away_team": "Western Kentucky",
+    "neutral": false
+  },
+  {
+    "home_team": "Vanderbilt",
+    "away_team": "Virginia Tech",
+    "neutral": false
+  },
+  {
+    "home_team": "South Carolina",
+    "away_team": "Old Dominion",
+    "neutral": false
+  },
+  {
+    "home_team": "Tennessee",
+    "away_team": "Chattanooga",
+    "neutral": false
+  },
+  {
+    "home_team": "Kentucky",
+    "away_team": "Southern Miss",
+    "neutral": false
+  },
+  {
+    "home_team": "Auburn",
+    "away_team": "Alabama A&M",
+    "neutral": false
+  },
+  {
+    "home_team": "Indiana",
+    "away_team": "Florida International",
+    "neutral": false
+  },
+  {
+    "home_team": "Iowa",
+    "away_team": "Illinois State",
+    "neutral": false
+  },
+  {
+    "home_team": "Northwestern",
+    "away_team": "Miami (OH)",
+    "neutral": false
+  },
+  {
+    "home_team": "West Virginia",
+    "away_team": "Penn State",
+    "neutral": false
+  },
+  {
+    "home_team": "Washington",
+    "away_team": "Weber State",
+    "neutral": false
+  },
+  {
+    "home_team": "Wisconsin",
+    "away_team": "Western Michigan",
+    "neutral": false
+  },
+  {
+    "home_team": "Maryland",
+    "away_team": "UConn",
+    "neutral": false
+  },
+  {
+    "home_team": "Michigan",
+    "away_team": "Fresno State",
+    "neutral": false
+  },
+  {
+    "home_team": "Nebraska",
+    "away_team": "UTEP",
+    "neutral": false
+  },
+  {
+    "home_team": "Michigan State",
+    "away_team": "Florida Atlantic",
+    "neutral": false
+  },
+  {
+    "home_team": "Hawai'i",
+    "away_team": "UCLA",
+    "neutral": false
+  },
+  {
+    "home_team": "Oregon",
+    "away_team": "Idaho",
+    "neutral": false
+  },
+  {
+    "home_team": "Rutgers",
+    "away_team": "Howard",
+    "neutral": false
+  },
+  {
+    "home_team": "Ohio State",
+    "away_team": "Akron",
+    "neutral": false
+  },
+  {
+    "home_team": "Purdue",
+    "away_team": "Indiana State",
+    "neutral": false
+  },
+  {
+    "home_team": "Texas Tech",
+    "away_team": "Abilene Christian",
+    "neutral": false
+  },
+  {
+    "home_team": "Iowa State",
+    "away_team": "North Dakota",
+    "neutral": false
+  },
+  {
+    "home_team": "Colorado",
+    "away_team": "ND State",
+    "neutral": false
+  },
+  {
+    "home_team": "Arizona State",
+    "away_team": "Wyoming",
+    "neutral": false
+  },
+  {
+    "home_team": "Kansas State",
+    "away_team": "UT Martin",
+    "neutral": false
+  },
+  {
+    "home_team": "Baylor",
+    "away_team": "Tarleton State",
+    "neutral": false
+  },
+  {
+    "home_team": "Arizona",
+    "away_team": "New Mexico",
+    "neutral": false
+  },
+  {
+    "home_team": "Houston",
+    "away_team": "UNLV",
+    "neutral": false
+  },
+  {
+    "home_team": "Oklahoma State",
+    "away_team": "SD State",
+    "neutral": false
+  },
+  {
+    "home_team": "BYU",
+    "away_team": "So. Illinois",
+    "neutral": false
+  },
+  {
+    "home_team": "Cincinnati",
+    "away_team": "Towson",
+    "neutral": false
+  },
+  {
+    "home_team": "Syracuse",
+    "away_team": "Ohio",
+    "neutral": false
+  },
+  {
+    "home_team": "Virginia",
+    "away_team": "Richmond",
+    "neutral": false
+  },
+  {
+    "home_team": "California",
+    "away_team": "UC Davis",
+    "neutral": false
+  },
+  {
+    "home_team": "Georgia Tech",
+    "away_team": "Georgia State",
+    "neutral": false
+  },
+  {
+    "home_team": "Pittsburgh",
+    "away_team": "Kent State",
+    "neutral": false
+  },
+  {
+    "home_team": "Louisville",
+    "away_team": "Austin Peay",
+    "neutral": false
+  },
+  {
+    "home_team": "USC",
+    "away_team": "LSU",
+    "neutral": true
+  },
+  {
+    "home_team": "Florida State",
+    "away_team": "Boston College",
+    "neutral": false
+  },
+  {
+    "home_team": "Oklahoma State",
+    "away_team": "Arkansas",
+    "neutral": false
+  },
+  {
+    "home_team": "Missouri",
+    "away_team": "Buffalo",
+    "neutral": false
+  },
+  {
+    "home_team": "Auburn",
+    "away_team": "California",
+    "neutral": false
+  },
+  {
+    "home_team": "Arizona State",
+    "away_team": "Mississippi State",
+    "neutral": false
+  },
+  {
+    "home_team": "Alabama",
+    "away_team": "South Florida",
+    "neutral": false
+  },
+  {
+    "home_team": "Georgia",
+    "away_team": "Tenn. Tech",
+    "neutral": false
+  },
+  {
+    "home_team": "Texas A&M",
+    "away_team": "McNeese",
+    "neutral": false
+  },
+  {
+    "home_team": "Ole Miss",
+    "away_team": "Middle Tennessee",
+    "neutral": false
+  },
+  {
+    "home_team": "Florida",
+    "away_team": "Samford",
+    "neutral": false
+  },
+  {
+    "home_team": "Michigan",
+    "away_team": "Texas",
+    "neutral": false
+  },
+  {
+    "home_team": "North Carolina State",
+    "away_team": "Tennessee",
+    "neutral": true
+  },
+  {
+    "home_team": "LSU",
+    "away_team": "Nicholls",
+    "neutral": false
+  },
+  {
+    "home_team": "Oklahoma",
+    "away_team": "Houston",
+    "neutral": false
+  },
+  {
+    "home_team": "Kentucky",
+    "away_team": "South Carolina",
+    "neutral": false
+  },
+  {
+    "home_team": "Vanderbilt",
+    "away_team": "Alcorn State",
+    "neutral": false
+  },
+  {
+    "home_team": "Penn State",
+    "away_team": "Bowling Green",
+    "neutral": false
+  },
+  {
+    "home_team": "Nebraska",
+    "away_team": "Colorado",
+    "neutral": false
+  },
+  {
+    "home_team": "Northwestern",
+    "away_team": "Duke",
+    "neutral": false
+  },
+  {
+    "home_team": "Illinois",
+    "away_team": "Kansas",
+    "neutral": false
+  },
+  {
+    "home_team": "Iowa",
+    "away_team": "Iowa State",
+    "neutral": false
+  },
+  {
+    "home_team": "Wisconsin",
+    "away_team": "South Dakota",
+    "neutral": false
+  },
+  {
+    "home_team": "Minnesota",
+    "away_team": "Rhode Island",
+    "neutral": false
+  },
+  {
+    "home_team": "Washington",
+    "away_team": "Eastern Michigan",
+    "neutral": false
+  },
+  {
+    "home_team": "Rutgers",
+    "away_team": "Akron",
+    "neutral": false
+  },
+  {
+    "home_team": "Ohio State",
+    "away_team": "Western Michigan",
+    "neutral": false
+  },
+  {
+    "home_team": "USC",
+    "away_team": "Utah State",
+    "neutral": false
+  },
+  {
+    "home_team": "Maryland",
+    "away_team": "Michigan State",
+    "neutral": false
+  },
+  {
+    "home_team": "Indiana",
+    "away_team": "Western Illinois",
+    "neutral": false
+  },
+  {
+    "home_team": "Oregon",
+    "away_team": "Boise State",
+    "neutral": false
+  },
+  {
+    "home_team": "Cincinnati",
+    "away_team": "Pittsburgh",
+    "neutral": false
+  },
+  {
+    "home_team": "West Virginia",
+    "away_team": "Albany",
+    "neutral": false
+  },
+  {
+    "home_team": "Arizona",
+    "away_team": "Northern Arizona",
+    "neutral": false
+  },
+  {
+    "home_team": "UCF",
+    "away_team": "Sam Houston State",
+    "neutral": false
+  },
+  {
+    "home_team": "Washington State",
+    "away_team": "Texas Tech",
+    "neutral": false
+  },
+  {
+    "home_team": "Utah",
+    "away_team": "Baylor",
+    "neutral": false
+  },
+  {
+    "home_team": "TCU",
+    "away_team": "LIU",
+    "neutral": false
+  },
+  {
+    "home_team": "Clemson",
+    "away_team": "Appalachian State",
+    "neutral": false
+  },
+  {
+    "home_team": "North Carolina",
+    "away_team": "Charlotte",
+    "neutral": false
+  },
+  {
+    "home_team": "Miami (FL)",
+    "away_team": "Florida A&M",
+    "neutral": false
+  },
+  {
+    "home_team": "Virginia Tech",
+    "away_team": "Marshall",
+    "neutral": false
+  },
+  {
+    "home_team": "Stanford",
+    "away_team": "Cal Poly",
+    "neutral": false
+  },
+  {
+    "home_team": "Louisville",
+    "away_team": "Jacksonville St.",
+    "neutral": false
+  },
+  {
+    "home_team": "Boston College",
+    "away_team": "Duquesne",
+    "neutral": false
+  },
+  {
+    "home_team": "Syracuse",
+    "away_team": "Georgia Tech",
+    "neutral": false
+  },
+  {
+    "home_team": "Wake Forest",
+    "away_team": "Virginia",
+    "neutral": false
+  },
+  {
+    "home_team": "Texas State",
+    "away_team": "Arizona State",
+    "neutral": false
+  },
+  {
+    "home_team": "Kansas State",
+    "away_team": "Arizona",
+    "neutral": false
+  },
+  {
+    "home_team": "Missouri",
+    "away_team": "Boston College",
+    "neutral": false
+  },
+  {
+    "home_team": "Wake Forest",
+    "away_team": "Ole Miss",
+    "neutral": false
+  },
+  {
+    "home_team": "Oklahoma",
+    "away_team": "Tulane",
+    "neutral": false
+  },
+  {
+    "home_team": "Texas",
+    "away_team": "UTSA",
+    "neutral": false
+  },
+  {
+    "home_team": "Wisconsin",
+    "away_team": "Alabama",
+    "neutral": false
+  },
+  {
+    "home_team": "Auburn",
+    "away_team": "New Mexico",
+    "neutral": false
+  },
+  {
+    "home_team": "Arkansas",
+    "away_team": "UAB",
+    "neutral": false
+  },
+  {
+    "home_team": "Tennessee",
+    "away_team": "Kent State",
+    "neutral": false
+  },
+  {
+    "home_team": "Mississippi State",
+    "away_team": "Toledo",
+    "neutral": false
+  },
+  {
+    "home_team": "Florida",
+    "away_team": "Texas A&M",
+    "neutral": false
+  },
+  {
+    "home_team": "Kentucky",
+    "away_team": "Georgia",
+    "neutral": false
+  },
+  {
+    "home_team": "South Carolina",
+    "away_team": "LSU",
+    "neutral": false
+  },
+  {
+    "home_team": "Georgia State",
+    "away_team": "Vanderbilt",
+    "neutral": false
+  },
+  {
+    "home_team": "Illinois",
+    "away_team": "Central Michigan",
+    "neutral": false
+  },
+  {
+    "home_team": "Virginia",
+    "away_team": "Maryland",
+    "neutral": false
+  },
+  {
+    "home_team": "Purdue",
+    "away_team": "Notre Dame",
+    "neutral": false
+  },
+  {
+    "home_team": "Minnesota",
+    "away_team": "Nevada",
+    "neutral": false
+  },
+  {
+    "home_team": "Iowa",
+    "away_team": "Troy",
+    "neutral": false
+  },
+  {
+    "home_team": "Nebraska",
+    "away_team": "Northern Iowa",
+    "neutral": false
+  },
+  {
+    "home_team": "Michigan",
+    "away_team": "Arkansas State",
+    "neutral": false
+  },
+  {
+    "home_team": "UCLA",
+    "away_team": "Indiana",
+    "neutral": false
+  },
+  {
+    "home_team": "Washington",
+    "away_team": "Washington State",
+    "neutral": true
+  },
+  {
+    "home_team": "Oregon State",
+    "away_team": "Oregon",
+    "neutral": false
+  },
+  {
+    "home_team": "Northwestern",
+    "away_team": "Eastern Illinois",
+    "neutral": false
+  },
+  {
+    "home_team": "Michigan State",
+    "away_team": "Prarie View A&M",
+    "neutral": false
+  },
+  {
+    "home_team": "Miami (OH)",
+    "away_team": "Cincinnati",
+    "neutral": false
+  },
+  {
+    "home_team": "Colorado State",
+    "away_team": "Colorado",
+    "neutral": false
+  },
+  {
+    "home_team": "Texas Tech",
+    "away_team": "North Texas",
+    "neutral": false
+  },
+  {
+    "home_team": "Tulsa",
+    "away_team": "Oklahoma State",
+    "neutral": false
+  },
+  {
+    "home_team": "Wyoming",
+    "away_team": "BYU",
+    "neutral": false
+  },
+  {
+    "home_team": "Kansas",
+    "away_team": "UNLV",
+    "neutral": false
+  },
+  {
+    "home_team": "Pittsburgh",
+    "away_team": "West Virginia",
+    "neutral": false
+  },
+  {
+    "home_team": "Houston",
+    "away_team": "Rice",
+    "neutral": false
+  },
+  {
+    "home_team": "Utah State",
+    "away_team": "Utah",
+    "neutral": false
+  },
+  {
+    "home_team": "Baylor",
+    "away_team": "Air Force",
+    "neutral": false
+  },
+  {
+    "home_team": "TCU",
+    "away_team": "UCF",
+    "neutral": false
+  },
+  {
+    "home_team": "California",
+    "away_team": "San Diego State",
+    "neutral": false
+  },
+  {
+    "home_team": "Duke",
+    "away_team": "UConn",
+    "neutral": false
+  },
+  {
+    "home_team": "Miami (FL)",
+    "away_team": "Ball State",
+    "neutral": false
+  },
+  {
+    "home_team": "Old Dominion",
+    "away_team": "Virginia Tech",
+    "neutral": false
+  },
+  {
+    "home_team": "Florida State",
+    "away_team": "Memphis",
+    "neutral": false
+  },
+  {
+    "home_team": "North Carolina",
+    "away_team": "NC Central",
+    "neutral": false
+  },
+  {
+    "home_team": "Pittsburgh",
+    "away_team": "West Virginia",
+    "neutral": false
+  },
+  {
+    "home_team": "Georgia Tech",
+    "away_team": "VMI",
+    "neutral": false
+  },
+  {
+    "home_team": "North Carolina State",
+    "away_team": "Louisiana Tech",
+    "neutral": false
+  },
+  {
+    "home_team": "Syracuse",
+    "away_team": "Stanford",
+    "neutral": false
+  },
+  {
+    "home_team": "South Carolina",
+    "away_team": "Akron",
+    "neutral": false
+  },
+  {
+    "home_team": "Kentucky",
+    "away_team": "Ohio",
+    "neutral": false
+  },
+  {
+    "home_team": "Texas A&M",
+    "away_team": "Bowling Green",
+    "neutral": false
+  },
+  {
+    "home_team": "Ole Miss",
+    "away_team": "Georgia Southern",
+    "neutral": false
+  },
+  {
+    "home_team": "LSU",
+    "away_team": "UCLA",
+    "neutral": false
+  },
+  {
+    "home_team": "Texas",
+    "away_team": "Louisiana-Monroe",
+    "neutral": false
+  },
+  {
+    "home_team": "Oklahoma",
+    "away_team": "Tennessee",
+    "neutral": false
+  },
+  {
+    "home_team": "Auburn",
+    "away_team": "Arkansas",
+    "neutral": false
+  },
+  {
+    "home_team": "Mississippi State",
+    "away_team": "Florida",
+    "neutral": false
+  },
+  {
+    "home_team": "Missouri",
+    "away_team": "Vanderbilt",
+    "neutral": false
+  },
+  {
+    "home_team": "Indiana",
+    "away_team": "Charlotte",
+    "neutral": false
+  },
+  {
+    "home_team": "Boston College",
+    "away_team": "Michigan State",
+    "neutral": false
+  },
+  {
+    "home_team": "Oregon State",
+    "away_team": "Purdue",
+    "neutral": false
+  },
+  {
+    "home_team": "Virginia Tech",
+    "away_team": "Rutgers",
+    "neutral": false
+  },
+  {
+    "home_team": "Penn State",
+    "away_team": "Kent State",
+    "neutral": false
+  },
+  {
+    "home_team": "LSU",
+    "away_team": "UCLA",
+    "neutral": false
+  },
+  {
+    "home_team": "Ohio State",
+    "away_team": "Marshall",
+    "neutral": false
+  },
+  {
+    "home_team": "Maryland",
+    "away_team": "Villanova",
+    "neutral": false
+  },
+  {
+    "home_team": "Michigan",
+    "away_team": "USC",
+    "neutral": false
+  },
+  {
+    "home_team": "Nebraska",
+    "away_team": "Illinois",
+    "neutral": false
+  },
+  {
+    "home_team": "Minnesota",
+    "away_team": "Iowa",
+    "neutral": false
+  },
+  {
+    "home_team": "Washington",
+    "away_team": "Northwestern",
+    "neutral": false
+  },
+  {
+    "home_team": "SMU",
+    "away_team": "TCU",
+    "neutral": false
+  },
+  {
+    "home_team": "Iowa State",
+    "away_team": "Arkansas State",
+    "neutral": false
+  },
+  {
+    "home_team": "Texas Tech",
+    "away_team": "Arizona State",
+    "neutral": false
+  },
+  {
+    "home_team": "Colorado",
+    "away_team": "Baylor",
+    "neutral": false
+  },
+  {
+    "home_team": "Cincinnati",
+    "away_team": "Houston",
+    "neutral": false
+  },
+  {
+    "home_team": "West Virginia",
+    "away_team": "Kansas",
+    "neutral": false
+  },
+  {
+    "home_team": "BYU",
+    "away_team": "Kansas State",
+    "neutral": false
+  },
+  {
+    "home_team": "Oklahoma State",
+    "away_team": "Utah",
+    "neutral": false
+  },
+  {
+    "home_team": "North Carolina",
+    "away_team": "James Madison",
+    "neutral": false
+  },
+  {
+    "home_team": "Coastal Carolina",
+    "away_team": "Virginia",
+    "neutral": false
+  },
+  {
+    "home_team": "Pittsburgh",
+    "away_team": "Youngstown St.",
+    "neutral": false
+  },
+  {
+    "home_team": "South Florida",
+    "away_team": "Miami (FL)",
+    "neutral": false
+  },
+  {
+    "home_team": "Middle Tennessee",
+    "away_team": "Duke",
+    "neutral": false
+  },
+  {
+    "home_team": "Florida State",
+    "away_team": "California",
+    "neutral": false
+  },
+  {
+    "home_team": "Louisville",
+    "away_team": "Georgia Tech",
+    "neutral": false
+  },
+  {
+    "home_team": "Clemson",
+    "away_team": "North Carolina State",
+    "neutral": false
+  },
+  {
+    "home_team": "Miami (FL)",
+    "away_team": "Virginia Tech",
+    "neutral": false
+  },
+  {
+    "home_team": "Arkansas",
+    "away_team": "Texas A&M",
+    "neutral": true
+  },
+  {
+    "home_team": "LSU",
+    "away_team": "South Alabama",
+    "neutral": false
+  },
+  {
+    "home_team": "Alabama",
+    "away_team": "Georgia",
+    "neutral": false
+  },
+  {
+    "home_team": "Ole Miss",
+    "away_team": "Kentucky",
+    "neutral": false
+  },
+  {
+    "home_team": "Texas",
+    "away_team": "Mississippi State",
+    "neutral": false
+  },
+  {
+    "home_team": "Auburn",
+    "away_team": "Oklahoma",
+    "neutral": false
+  },
+  {
+    "home_team": "Michigan",
+    "away_team": "Minnesota",
+    "neutral": false
+  },
+  {
+    "home_team": "Purdue",
+    "away_team": "Nebraska",
+    "neutral": false
+  },
+  {
+    "home_team": "UCLA",
+    "away_team": "Oregon",
+    "neutral": false
+  },
+  {
+    "home_team": "Rutgers",
+    "away_team": "Washington",
+    "neutral": false
+  },
+  {
+    "home_team": "USC",
+    "away_team": "Wisconsin",
+    "neutral": false
+  },
+  {
+    "home_team": "Penn State",
+    "away_team": "Illinois",
+    "neutral": false
+  },
+  {
+    "home_team": "Indiana",
+    "away_team": "Maryland",
+    "neutral": false
+  },
+  {
+    "home_team": "Michigan State",
+    "away_team": "Ohio State",
+    "neutral": false
+  },
+  {
+    "home_team": "Utah",
+    "away_team": "Arizona",
+    "neutral": false
+  },
+  {
+    "home_team": "Baylor",
+    "away_team": "BYU",
+    "neutral": false
+  },
+  {
+    "home_team": "Texas Tech",
+    "away_team": "Cincinnati",
+    "neutral": false
+  },
+  {
+    "home_team": "UCF",
+    "away_team": "Colorado",
+    "neutral": false
+  },
+  {
+    "home_team": "Houston",
+    "away_team": "Iowa State",
+    "neutral": false
+  },
+  {
+    "home_team": "Kansas State",
+    "away_team": "Oklahoma State",
+    "neutral": false
+  },
+  {
+    "home_team": "Kansas",
+    "away_team": "TCU",
+    "neutral": false
+  },
+  {
+    "home_team": "Boston College",
+    "away_team": "Western Kentucky",
+    "neutral": false
+  },
+  {
+    "home_team": "Syracuse",
+    "away_team": "Holy Cross",
+    "neutral": false
+  },
+  {
+    "home_team": "Notre Dame",
+    "away_team": "Louisville",
+    "neutral": false
+  },
+  {
+    "home_team": "North Carolina State",
+    "away_team": "Northern Illinois",
+    "neutral": false
+  },
+  {
+    "home_team": "Wake Forest",
+    "away_team": "Louisiana",
+    "neutral": false
+  },
+  {
+    "home_team": "SMU",
+    "away_team": "Florida State",
+    "neutral": false
+  },
+  {
+    "home_team": "Duke",
+    "away_team": "North Carolina",
+    "neutral": false
+  },
+  {
+    "home_team": "Clemson",
+    "away_team": "Stanford",
+    "neutral": false
+  },
+  {
+    "home_team": "TCU",
+    "away_team": "Houston",
+    "neutral": false
+  },
+  {
+    "home_team": "Florida",
+    "away_team": "UCF",
+    "neutral": false
+  },
+  {
+    "home_team": "Georgia",
+    "away_team": "Auburn",
+    "neutral": false
+  },
+  {
+    "home_team": "Ole Miss",
+    "away_team": "South Carolina",
+    "neutral": false
+  },
+  {
+    "home_team": "Vanderbilt",
+    "away_team": "Alabama",
+    "neutral": false
+  },
+  {
+    "home_team": "Texas A&M",
+    "away_team": "Missouri",
+    "neutral": false
+  },
+  {
+    "home_team": "Arkansas",
+    "away_team": "Tennessee",
+    "neutral": false
+  },
+  {
+    "home_team": "Washington",
+    "away_team": "Michigan",
+    "neutral": false
+  },
+  {
+    "home_team": "Northwestern",
+    "away_team": "Indiana",
+    "neutral": false
+  },
+  {
+    "home_team": "Ohio State",
+    "away_team": "Iowa",
+    "neutral": false
+  },
+  {
+    "home_team": "Oregon",
+    "away_team": "Michigan State",
+    "neutral": false
+  },
+  {
+    "home_team": "Wisconsin",
+    "away_team": "Purdue",
+    "neutral": false
+  },
+  {
+    "home_team": "Nebraska",
+    "away_team": "Rutgers",
+    "neutral": false
+  },
+  {
+    "home_team": "Penn State",
+    "away_team": "UCLA",
+    "neutral": false
+  },
+  {
+    "home_team": "Minnesota",
+    "away_team": "USC",
+    "neutral": false
+  },
+  {
+    "home_team": "Iowa State",
+    "away_team": "Baylor",
+    "neutral": false
+  },
+  {
+    "home_team": "Arizona State",
+    "away_team": "Kansas",
+    "neutral": false
+  },
+  {
+    "home_team": "Arizona",
+    "away_team": "Texas Tech",
+    "neutral": false
+  },
+  {
+    "home_team": "Oklahoma State",
+    "away_team": "West Virginia",
+    "neutral": false
+  },
+  {
+    "home_team": "UNLV",
+    "away_team": "Syracuse",
+    "neutral": false
+  },
+  {
+    "home_team": "Virginia",
+    "away_team": "Boston College",
+    "neutral": false
+  },
+  {
+    "home_team": "Florida State",
+    "away_team": "Clemson",
+    "neutral": false
+  },
+  {
+    "home_team": "Georgia Tech",
+    "away_team": "Duke",
+    "neutral": false
+  },
+  {
+    "home_team": "California",
+    "away_team": "Miami (FL)",
+    "neutral": false
+  },
+  {
+    "home_team": "North Carolina",
+    "away_team": "Pittsburgh",
+    "neutral": false
+  },
+  {
+    "home_team": "Louisville",
+    "away_team": "SMU",
+    "neutral": false
+  },
+  {
+    "home_team": "Stanford",
+    "away_team": "Virginia Tech",
+    "neutral": false
+  },
+  {
+    "home_team": "North Carolina State",
+    "away_team": "Wake Forest",
+    "neutral": false
+  },
+  {
+    "home_team": "Arizona State",
+    "away_team": "Utah",
+    "neutral": false
+  },
+  {
+    "home_team": "UMass",
+    "away_team": "Missouri",
+    "neutral": false
+  },
+  {
+    "home_team": "Tennessee",
+    "away_team": "Florida",
+    "neutral": false
+  },
+  {
+    "home_team": "Georgia",
+    "away_team": "Mississippi State",
+    "neutral": false
+  },
+  {
+    "home_team": "LSU",
+    "away_team": "Ole Miss",
+    "neutral": false
+  },
+  {
+    "home_team": "Alabama",
+    "away_team": "South Carolina",
+    "neutral": false
+  },
+  {
+    "home_team": "Texas",
+    "away_team": "Oklahoma",
+    "neutral": true
+  },
+  {
+    "home_team": "Kentucky",
+    "away_team": "Vanderbilt",
+    "neutral": false
+  },
+  {
+    "home_team": "UCLA",
+    "away_team": "Minnesota",
+    "neutral": false
+  },
+  {
+    "home_team": "Maryland",
+    "away_team": "Northwestern",
+    "neutral": false
+  },
+  {
+    "home_team": "Oregon",
+    "away_team": "Ohio State",
+    "neutral": false
+  },
+  {
+    "home_team": "USC",
+    "away_team": "Penn State",
+    "neutral": false
+  },
+  {
+    "home_team": "Illinois",
+    "away_team": "Purdue",
+    "neutral": false
+  },
+  {
+    "home_team": "Iowa",
+    "away_team": "Washington",
+    "neutral": false
+  },
+  {
+    "home_team": "Rutgers",
+    "away_team": "Wisconsin",
+    "neutral": false
+  },
+  {
+    "home_team": "BYU",
+    "away_team": "Arizona",
+    "neutral": false
+  },
+  {
+    "home_team": "UCF",
+    "away_team": "Cincinnati",
+    "neutral": false
+  },
+  {
+    "home_team": "West Virginia",
+    "away_team": "Iowa State",
+    "neutral": false
+  },
+  {
+    "home_team": "Colorado",
+    "away_team": "Kansas State",
+    "neutral": false
+  },
+  {
+    "home_team": "Notre Dame",
+    "away_team": "Stanford",
+    "neutral": false
+  },
+  {
+    "home_team": "Pittsburgh",
+    "away_team": "California",
+    "neutral": false
+  },
+  {
+    "home_team": "Wake Forest",
+    "away_team": "Clemson",
+    "neutral": false
+  },
+  {
+    "home_team": "North Carolina",
+    "away_team": "Georgia Tech",
+    "neutral": false
+  },
+  {
+    "home_team": "Virginia",
+    "away_team": "Louisville",
+    "neutral": false
+  },
+  {
+    "home_team": "North Carolina State",
+    "away_team": "Syracuse",
+    "neutral": false
+  },
+  {
+    "home_team": "Virginia Tech",
+    "away_team": "Boston College",
+    "neutral": false
+  },
+  {
+    "home_team": "Duke",
+    "away_team": "Florida State",
+    "neutral": false
+  },
+  {
+    "home_team": "BYU",
+    "away_team": "Oklahoma State",
+    "neutral": false
+  },
+  {
+    "home_team": "Tennessee",
+    "away_team": "Alabama",
+    "neutral": false
+  },
+  {
+    "home_team": "Texas",
+    "away_team": "Georgia",
+    "neutral": false
+  },
+  {
+    "home_team": "Missouri",
+    "away_team": "Auburn",
+    "neutral": false
+  },
+  {
+    "home_team": "Florida",
+    "away_team": "Kentucky",
+    "neutral": false
+  },
+  {
+    "home_team": "Arkansas",
+    "away_team": "LSU",
+    "neutral": false
+  },
+  {
+    "home_team": "Oklahoma",
+    "away_team": "South Carolina",
+    "neutral": false
+  },
+  {
+    "home_team": "Mississippi State",
+    "away_team": "Texas A&M",
+    "neutral": false
+  },
+  {
+    "home_team": "Vanderbilt",
+    "away_team": "Ball State",
+    "neutral": false
+  },
+  {
+    "home_team": "Illinois",
+    "away_team": "Michigan",
+    "neutral": false
+  },
+  {
+    "home_team": "Michigan State",
+    "away_team": "Iowa",
+    "neutral": false
+  },
+  {
+    "home_team": "Indiana",
+    "away_team": "Nebraska",
+    "neutral": false
+  },
+  {
+    "home_team": "Purdue",
+    "away_team": "Oregon",
+    "neutral": false
+  },
+  {
+    "home_team": "Rutgers",
+    "away_team": "UCLA",
+    "neutral": false
+  },
+  {
+    "home_team": "Maryland",
+    "away_team": "USC",
+    "neutral": false
+  },
+  {
+    "home_team": "Northwestern",
+    "away_team": "Wisconsin",
+    "neutral": false
+  },
+  {
+    "home_team": "Cincinnati",
+    "away_team": "Arizona State",
+    "neutral": false
+  },
+  {
+    "home_team": "Texas Tech",
+    "away_team": "Baylor",
+    "neutral": false
+  },
+  {
+    "home_team": "Arizona",
+    "away_team": "Colorado",
+    "neutral": false
+  },
+  {
+    "home_team": "Kansas",
+    "away_team": "Houston",
+    "neutral": false
+  },
+  {
+    "home_team": "West Virginia",
+    "away_team": "Kansas State",
+    "neutral": false
+  },
+  {
+    "home_team": "Utah",
+    "away_team": "TCU",
+    "neutral": false
+  },
+  {
+    "home_team": "Iowa State",
+    "away_team": "UCF",
+    "neutral": false
+  },
+  {
+    "home_team": "Georgia Tech",
+    "away_team": "Notre Dame",
+    "neutral": true
+  },
+  {
+    "home_team": "UConn",
+    "away_team": "Wake Forest",
+    "neutral": false
+  },
+  {
+    "home_team": "Louisville",
+    "away_team": "Miami (FL)",
+    "neutral": false
+  },
+  {
+    "home_team": "California",
+    "away_team": "North Carolina State",
+    "neutral": false
+  },
+  {
+    "home_team": "Stanford",
+    "away_team": "SMU",
+    "neutral": false
+  },
+  {
+    "home_team": "Clemson",
+    "away_team": "Virginia",
+    "neutral": false
+  },
+  {
+    "home_team": "Pittsburgh",
+    "away_team": "Syracuse",
+    "neutral": false
+  },
+  {
+    "home_team": "Boston College",
+    "away_team": "Louisville",
+    "neutral": false
+  },
+  {
+    "home_team": "Texas A&M",
+    "away_team": "LSU",
+    "neutral": false
+  },
+  {
+    "home_team": "Ole Miss",
+    "away_team": "Oklahoma",
+    "neutral": false
+  },
+  {
+    "home_team": "Mississippi State",
+    "away_team": "Arkansas",
+    "neutral": false
+  },
+  {
+    "home_team": "Kentucky",
+    "away_team": "Auburn",
+    "neutral": false
+  },
+  {
+    "home_team": "Alabama",
+    "away_team": "Missouri",
+    "neutral": false
+  },
+  {
+    "home_team": "Vanderbilt",
+    "away_team": "Texas",
+    "neutral": false
+  },
+  {
+    "home_team": "Michigan",
+    "away_team": "Michigan State",
+    "neutral": false
+  },
+  {
+    "home_team": "Oregon",
+    "away_team": "Illinois",
+    "neutral": false
+  },
+  {
+    "home_team": "Minnesota",
+    "away_team": "Maryland",
+    "neutral": false
+  },
+  {
+    "home_team": "Ohio State",
+    "away_team": "Nebraska",
+    "neutral": false
+  },
+  {
+    "home_team": "Iowa",
+    "away_team": "Northwestern",
+    "neutral": false
+  },
+  {
+    "home_team": "Wisconsin",
+    "away_team": "Penn State",
+    "neutral": false
+  },
+  {
+    "home_team": "USC",
+    "away_team": "Rutgers",
+    "neutral": false
+  },
+  {
+    "home_team": "Indiana",
+    "away_team": "Washington",
+    "neutral": false
+  },
+  {
+    "home_team": "UCF",
+    "away_team": "BYU",
+    "neutral": false
+  },
+  {
+    "home_team": "Colorado",
+    "away_team": "Cincinnati",
+    "neutral": false
+  },
+  {
+    "home_team": "Kansas State",
+    "away_team": "Kansas",
+    "neutral": false
+  },
+  {
+    "home_team": "Baylor",
+    "away_team": "Oklahoma State",
+    "neutral": false
+  },
+  {
+    "home_team": "TCU",
+    "away_team": "Texas Tech",
+    "neutral": false
+  },
+  {
+    "home_team": "Houston",
+    "away_team": "Utah",
+    "neutral": false
+  },
+  {
+    "home_team": "Arizona",
+    "away_team": "West Virginia",
+    "neutral": false
+  },
+  {
+    "home_team": "Miami (FL)",
+    "away_team": "Florida State",
+    "neutral": false
+  },
+  {
+    "home_team": "Virginia Tech",
+    "away_team": "Georgia Tech",
+    "neutral": false
+  },
+  {
+    "home_team": "Virginia",
+    "away_team": "North Carolina",
+    "neutral": false
+  },
+  {
+    "home_team": "Duke",
+    "away_team": "SMU",
+    "neutral": false
+  },
+  {
+    "home_team": "Stanford",
+    "away_team": "Wake Forest",
+    "neutral": false
+  },
+  {
+    "home_team": "California",
+    "away_team": "Oregon State",
+    "neutral": false
+  },
+  {
+    "home_team": "Mississippi State",
+    "away_team": "UMass",
+    "neutral": false
+  },
+  {
+    "home_team": "Florida",
+    "away_team": "Georgia",
+    "neutral": true
+  },
+  {
+    "home_team": "Arkansas",
+    "away_team": "Ole Miss",
+    "neutral": false
+  },
+  {
+    "home_team": "Tennessee",
+    "away_team": "Kentucky",
+    "neutral": false
+  },
+  {
+    "home_team": "Oklahoma",
+    "away_team": "Maine",
+    "neutral": false
+  },
+  {
+    "home_team": "South Carolina",
+    "away_team": "Texas A&M",
+    "neutral": false
+  },
+  {
+    "home_team": "Auburn",
+    "away_team": "Vanderbilt",
+    "neutral": false
+  },
+  {
+    "home_team": "Michigan",
+    "away_team": "Oregon",
+    "neutral": false
+  },
+  {
+    "home_team": "Michigan State",
+    "away_team": "Indiana",
+    "neutral": false
+  },
+  {
+    "home_team": "Illinois",
+    "away_team": "Minnesota",
+    "neutral": false
+  },
+  {
+    "home_team": "Purdue",
+    "away_team": "Northwestern",
+    "neutral": false
+  },
+  {
+    "home_team": "Penn State",
+    "away_team": "Ohio State",
+    "neutral": false
+  },
+  {
+    "home_team": "Nebraska",
+    "away_team": "UCLA",
+    "neutral": false
+  },
+  {
+    "home_team": "Washington",
+    "away_team": "USC",
+    "neutral": false
+  },
+  {
+    "home_team": "Iowa",
+    "away_team": "Wisconsin",
+    "neutral": false
+  },
+  {
+    "home_team": "UCF",
+    "away_team": "Arizona",
+    "neutral": false
+  },
+  {
+    "home_team": "Oklahoma State",
+    "away_team": "Arizona State",
+    "neutral": false
+  },
+  {
+    "home_team": "Houston",
+    "away_team": "Kansas State",
+    "neutral": false
+  },
+  {
+    "home_team": "Baylor",
+    "away_team": "TCU",
+    "neutral": false
+  },
+  {
+    "home_team": "Iowa State",
+    "away_team": "Texas Tech",
+    "neutral": false
+  },
+  {
+    "home_team": "Miami (FL)",
+    "away_team": "Duke",
+    "neutral": false
+  },
+  {
+    "home_team": "Clemson",
+    "away_team": "Louisville",
+    "neutral": false
+  },
+  {
+    "home_team": "Florida State",
+    "away_team": "North Carolina",
+    "neutral": false
+  },
+  {
+    "home_team": "SMU",
+    "away_team": "Pittsburgh",
+    "neutral": false
+  },
+  {
+    "home_team": "North Carolina State",
+    "away_team": "Stanford",
+    "neutral": false
+  },
+  {
+    "home_team": "Syracuse",
+    "away_team": "Virginia Tech",
+    "neutral": false
+  },
+  {
+    "home_team": "Wake Forest",
+    "away_team": "California",
+    "neutral": false
+  },
+  {
+    "home_team": "LSU",
+    "away_team": "Alabama",
+    "neutral": false
+  },
+  {
+    "home_team": "Ole Miss",
+    "away_team": "Georgia",
+    "neutral": false
+  },
+  {
+    "home_team": "Texas",
+    "away_team": "Florida",
+    "neutral": false
+  },
+  {
+    "home_team": "Tennessee",
+    "away_team": "Mississippi State",
+    "neutral": false
+  },
+  {
+    "home_team": "Missouri",
+    "away_team": "Oklahoma",
+    "neutral": false
+  },
+  {
+    "home_team": "Vanderbilt",
+    "away_team": "South Carolina",
+    "neutral": false
+  },
+  {
+    "home_team": "Indiana",
+    "away_team": "Michigan",
+    "neutral": false
+  },
+  {
+    "home_team": "UCLA",
+    "away_team": "Iowa",
+    "neutral": false
+  },
+  {
+    "home_team": "Oregon",
+    "away_team": "Maryland",
+    "neutral": false
+  },
+  {
+    "home_team": "Rutgers",
+    "away_team": "Minnesota",
+    "neutral": false
+  },
+  {
+    "home_team": "Ohio State",
+    "away_team": "Purdue",
+    "neutral": false
+  },
+  {
+    "home_team": "Penn State",
+    "away_team": "Washington",
+    "neutral": false
+  },
+  {
+    "home_team": "Utah",
+    "away_team": "BYU",
+    "neutral": false
+  },
+  {
+    "home_team": "Texas Tech",
+    "away_team": "Colorado",
+    "neutral": false
+  },
+  {
+    "home_team": "Kansas",
+    "away_team": "Iowa State",
+    "neutral": false
+  },
+  {
+    "home_team": "TCU",
+    "away_team": "Oklahoma State",
+    "neutral": false
+  },
+  {
+    "home_team": "Arizona State",
+    "away_team": "UCF",
+    "neutral": false
+  },
+  {
+    "home_team": "Cincinnati",
+    "away_team": "West Virginia",
+    "neutral": false
+  },
+  {
+    "home_team": "Notre Dame",
+    "away_team": "Florida State",
+    "neutral": false
+  },
+  {
+    "home_team": "Virginia Tech",
+    "away_team": "Clemson",
+    "neutral": false
+  },
+  {
+    "home_team": "North Carolina State",
+    "away_team": "Duke",
+    "neutral": false
+  },
+  {
+    "home_team": "Georgia Tech",
+    "away_team": "Miami (FL)",
+    "neutral": false
+  },
+  {
+    "home_team": "Boston College",
+    "away_team": "Syracuse",
+    "neutral": false
+  },
+  {
+    "home_team": "Pittsburgh",
+    "away_team": "Virginia",
+    "neutral": false
+  },
+  {
+    "home_team": "Arizona",
+    "away_team": "Houston",
+    "neutral": false
+  },
+  {
+    "home_team": "Kentucky",
+    "away_team": "Murray State",
+    "neutral": false
+  },
+  {
+    "home_team": "Texas A&M",
+    "away_team": "New Mexico State",
+    "neutral": false
+  },
+  {
+    "home_team": "Auburn",
+    "away_team": "Louisiana-Monroe",
+    "neutral": false
+  },
+  {
+    "home_team": "Alabama",
+    "away_team": "Mercer",
+    "neutral": false
+  },
+  {
+    "home_team": "Arkansas",
+    "away_team": "Texas",
+    "neutral": false
+  },
+  {
+    "home_team": "Georgia",
+    "away_team": "Tennessee",
+    "neutral": false
+  },
+  {
+    "home_team": "Florida",
+    "away_team": "LSU",
+    "neutral": false
+  },
+  {
+    "home_team": "South Carolina",
+    "away_team": "Missouri",
+    "neutral": false
+  },
+  {
+    "home_team": "Illinois",
+    "away_team": "Michigan State",
+    "neutral": false
+  },
+  {
+    "home_team": "USC",
+    "away_team": "Nebraska",
+    "neutral": false
+  },
+  {
+    "home_team": "Northwestern",
+    "away_team": "Ohio State",
+    "neutral": false
+  },
+  {
+    "home_team": "Wisconsin",
+    "away_team": "Oregon",
+    "neutral": false
+  },
+  {
+    "home_team": "Purdue",
+    "away_team": "Penn State",
+    "neutral": false
+  },
+  {
+    "home_team": "Maryland",
+    "away_team": "Rutgers",
+    "neutral": false
+  },
+  {
+    "home_team": "Washington",
+    "away_team": "UCLA",
+    "neutral": false
+  },
+  {
+    "home_team": "Kansas State",
+    "away_team": "Arizona State",
+    "neutral": false
+  },
+  {
+    "home_team": "West Virginia",
+    "away_team": "Baylor",
+    "neutral": false
+  },
+  {
+    "home_team": "Iowa State",
+    "away_team": "Cincinnati",
+    "neutral": false
+  },
+  {
+    "home_team": "BYU",
+    "away_team": "Kansas",
+    "neutral": false
+  },
+  {
+    "home_team": "Colorado",
+    "away_team": "Utah",
+    "neutral": false
+  },
+  {
+    "home_team": "Notre Dame",
+    "away_team": "Virginia",
+    "neutral": false
+  },
+  {
+    "home_team": "SMU",
+    "away_team": "Boston College",
+    "neutral": false
+  },
+  {
+    "home_team": "Pittsburgh",
+    "away_team": "Clemson",
+    "neutral": false
+  },
+  {
+    "home_team": "Stanford",
+    "away_team": "Louisville",
+    "neutral": false
+  },
+  {
+    "home_team": "California",
+    "away_team": "Syracuse",
+    "neutral": false
+  },
+  {
+    "home_team": "North Carolina",
+    "away_team": "Wake Forest",
+    "neutral": false
+  },
+  {
+    "home_team": "Georgia Tech",
+    "away_team": "North Carolina State",
+    "neutral": false
+  },
+  {
+    "home_team": "Georgia",
+    "away_team": "UMass",
+    "neutral": false
+  },
+  {
+    "home_team": "Arkansas",
+    "away_team": "Louisiana Tech",
+    "neutral": false
+  },
+  {
+    "home_team": "South Carolina",
+    "away_team": "Wofford",
+    "neutral": false
+  },
+  {
+    "home_team": "Tennessee",
+    "away_team": "UTEP",
+    "neutral": false
+  },
+  {
+    "home_team": "Oklahoma",
+    "away_team": "Alabama",
+    "neutral": false
+  },
+  {
+    "home_team": "Florida",
+    "away_team": "Ole Miss",
+    "neutral": false
+  },
+  {
+    "home_team": "Texas",
+    "away_team": "Kentucky",
+    "neutral": false
+  },
+  {
+    "home_team": "Mississippi State",
+    "away_team": "Missouri",
+    "neutral": false
+  },
+  {
+    "home_team": "Auburn",
+    "away_team": "Texas A&M",
+    "neutral": false
+  },
+  {
+    "home_team": "LSU",
+    "away_team": "Vanderbilt",
+    "neutral": false
+  },
+  {
+    "home_team": "Michigan",
+    "away_team": "Northwestern",
+    "neutral": false
+  },
+  {
+    "home_team": "Rutgers",
+    "away_team": "Illinois",
+    "neutral": false
+  },
+  {
+    "home_team": "Ohio State",
+    "away_team": "Indiana",
+    "neutral": false
+  },
+  {
+    "home_team": "Maryland",
+    "away_team": "Iowa",
+    "neutral": false
+  },
+  {
+    "home_team": "Minnesota",
+    "away_team": "Penn State",
+    "neutral": false
+  },
+  {
+    "home_team": "Michigan State",
+    "away_team": "Purdue",
+    "neutral": false
+  },
+  {
+    "home_team": "UCLA",
+    "away_team": "USC",
+    "neutral": false
+  },
+  {
+    "home_team": "Nebraska",
+    "away_team": "Wisconsin",
+    "neutral": false
+  },
+  {
+    "home_team": "TCU",
+    "away_team": "Arizona",
+    "neutral": false
+  },
+  {
+    "home_team": "Houston",
+    "away_team": "Baylor",
+    "neutral": false
+  },
+  {
+    "home_team": "Arizona State",
+    "away_team": "BYU",
+    "neutral": false
+  },
+  {
+    "home_team": "Kansas State",
+    "away_team": "Cincinnati",
+    "neutral": false
+  },
+  {
+    "home_team": "Kansas",
+    "away_team": "Colorado",
+    "neutral": false
+  },
+  {
+    "home_team": "Utah",
+    "away_team": "Iowa State",
+    "neutral": false
+  },
+  {
+    "home_team": "Oklahoma State",
+    "away_team": "Texas Tech",
+    "neutral": false
+  },
+  {
+    "home_team": "West Virginia",
+    "away_team": "UCF",
+    "neutral": false
+  },
+  {
+    "home_team": "Clemson",
+    "away_team": "The Citadel",
+    "neutral": false
+  },
+  {
+    "home_team": "Florida State",
+    "away_team": "Charleston So.",
+    "neutral": false
+  },
+  {
+    "home_team": "Syracuse",
+    "away_team": "UConn",
+    "neutral": false
+  },
+  {
+    "home_team": "Boston College",
+    "away_team": "North Carolina",
+    "neutral": false
+  },
+  {
+    "home_team": "Louisville",
+    "away_team": "Pittsburgh",
+    "neutral": false
+  },
+  {
+    "home_team": "Virginia",
+    "away_team": "SMU",
+    "neutral": false
+  },
+  {
+    "home_team": "California",
+    "away_team": "Stanford",
+    "neutral": false
+  },
+  {
+    "home_team": "Duke",
+    "away_team": "Virginia Tech",
+    "neutral": false
+  },
+  {
+    "home_team": "Miami (FL)",
+    "away_team": "Wake Forest",
+    "neutral": false
+  },
+  {
+    "home_team": "Iowa",
+    "away_team": "Nebraska",
+    "neutral": false
+  },
+  {
+    "home_team": "Colorado",
+    "away_team": "Oklahoma State",
+    "neutral": false
+  },
+  {
+    "home_team": "UCF",
+    "away_team": "Utah",
+    "neutral": false
+  },
+  {
+    "home_team": "Florida State",
+    "away_team": "Florida",
+    "neutral": false
+  },
+  {
+    "home_team": "Georgia",
+    "away_team": "Georgia Tech",
+    "neutral": false
+  },
+  {
+    "home_team": "Clemson",
+    "away_team": "South Carolina",
+    "neutral": false
+  },
+  {
+    "home_team": "Kentucky",
+    "away_team": "Louisville",
+    "neutral": false
+  },
+  {
+    "home_team": "Alabama",
+    "away_team": "Auburn",
+    "neutral": false
+  },
+  {
+    "home_team": "Ole Miss",
+    "away_team": "Mississippi State",
+    "neutral": false
+  },
+  {
+    "home_team": "Texas A&M",
+    "away_team": "Texas",
+    "neutral": false
+  },
+  {
+    "home_team": "Missouri",
+    "away_team": "Arkansas",
+    "neutral": false
+  },
+  {
+    "home_team": "LSU",
+    "away_team": "Oklahoma",
+    "neutral": false
+  },
+  {
+    "home_team": "Vanderbilt",
+    "away_team": "Tennessee",
+    "neutral": false
+  },
+  {
+    "home_team": "USC",
+    "away_team": "Notre Dame",
+    "neutral": false
+  },
+  {
+    "home_team": "UCLA",
+    "away_team": "Fresno State",
+    "neutral": false
+  },
+  {
+    "home_team": "Ohio State",
+    "away_team": "Michigan",
+    "neutral": false
+  },
+  {
+    "home_team": "Penn State",
+    "away_team": "Maryland",
+    "neutral": false
+  },
+  {
+    "home_team": "Wisconsin",
+    "away_team": "Minnesota",
+    "neutral": false
+  },
+  {
+    "home_team": "Indiana",
+    "away_team": "Purdue",
+    "neutral": false
+  },
+  {
+    "home_team": "Michigan State",
+    "away_team": "Rutgers",
+    "neutral": false
+  },
+  {
+    "home_team": "Oregon",
+    "away_team": "Washington",
+    "neutral": false
+  },
+  {
+    "home_team": "Arizona",
+    "away_team": "Arizona State",
+    "neutral": false
+  },
+  {
+    "home_team": "BYU",
+    "away_team": "Houston",
+    "neutral": false
+  },
+  {
+    "home_team": "Baylor",
+    "away_team": "Kansas",
+    "neutral": false
+  },
+  {
+    "home_team": "Iowa State",
+    "away_team": "Kansas State",
+    "neutral": false
+  },
+  {
+    "home_team": "Cincinnati",
+    "away_team": "TCU",
+    "neutral": false
+  },
+  {
+    "home_team": "Texas Tech",
+    "away_team": "West Virginia",
+    "neutral": false
+  },
+  {
+    "home_team": "Virginia Tech",
+    "away_team": "Virginia",
+    "neutral": false
+  },
+  {
+    "home_team": "San Jose State",
+    "away_team": "Stanford",
+    "neutral": false
+  },
+  {
+    "home_team": "SMU",
+    "away_team": "California",
+    "neutral": false
+  },
+  {
+    "home_team": "Wake Forest",
+    "away_team": "Duke",
+    "neutral": false
+  },
+  {
+    "home_team": "Syracuse",
+    "away_team": "Miami (FL)",
+    "neutral": false
+  },
+  {
+    "home_team": "North Carolina",
+    "away_team": "North Carolina State",
+    "neutral": false
+  },
+  {
+    "home_team": "Boston College",
+    "away_team": "Pittsburgh",
+    "neutral": false
+  }
+]

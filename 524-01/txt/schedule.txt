@@ -1,0 +1,484 @@
+Montana St. at New Mexico
+Florida State vs. Georgia Tech
+SMU at Nevada
+Delaware St. at Hawaii
+Southern Utah at Utah
+North Carolina at Minnesota
+Western Carolina at NC State
+New Hampshire at UCF
+Lindenwood at Kansas
+Eastern Illinois at Illinois
+Murray State at Missouri
+UAPB at Arkansas
+Elon at Duke
+TCU at Stanford
+Temple at Oklahoma
+Clemson vs. Georgia
+Colorado St. at Texas
+Eastern Kentucky at Mississippi State
+Furman at Ole Miss
+Notre Dame at Texas A&M
+Miami at Florida
+WKU at Alabama
+Virginia Tech at Vanderbilt
+Old Dominion at South Carolina
+Chattanooga at Tennessee
+Southern Miss at Kentucky
+Alabama A&M at Auburn
+FIU at Indiana
+Illinois State at Iowa
+Miami (OH) at Northwestern
+Penn State at West Virginia
+Weber State at Washington
+Western Mich. at Wisconsin
+UConn at Maryland
+Fresno State at Michigan
+UTEP at Nebraska
+Fla. Atlantic at Michigan State
+UCLA at Hawaii
+Idaho at Oregon
+Howard at Rutgers
+Akron at Ohio State
+Indiana State at Purdue
+Abilene Christian at Texas Tech
+North Dakota at Iowa State
+ND State at Colorado
+Wyoming at Arizona State
+UT Martin at Kansas State
+Tarleton State at Baylor
+New Mexico at Arizona
+UNLV at Houston
+SD State at Oklahoma State
+So. Illinois at BYU
+Towson at Cincinnati
+Ohio at Syracuse
+Richmond at Virginia
+UC Davis at Cal
+Georgia State at Georgia Tech
+Kent State at Pittsburgh
+Austin Peay at Louisville
+USC vs. LSU
+Boston College at Florida State
+Arkansas at Oklahoma State
+Buffalo at Missouri
+Cal at Auburn
+Mississippi State at Arizona State
+USF at Alabama
+Tenn. Tech at Georgia
+McNeese at Texas A&M
+MTSU at Ole Miss
+Samford at Florida
+Texas at Michigan
+NC State vs. Tennessee
+Nicholls at LSU
+Houston at Oklahoma
+South Carolina at Kentucky
+Alcorn State at Vanderbilt
+Bowling Green at Penn State
+Colorado at Nebraska
+Duke at Northwestern
+Kansas at Illinois
+Iowa State at Iowa
+South Dakota at Wisconsin
+Rhode Island at Minnesota
+Eastern Mich. at Washington
+Akron at Rutgers
+Western Mich. at Ohio State
+Utah State at USC
+Michigan State at Maryland
+Western Illinois at Indiana
+Boise State at Oregon
+Pittsburgh at Cincinnati
+Albany at West Virginia
+Northern Arizona at Arizona
+Sam Houston at UCF
+Texas Tech at Washington State
+Baylor at Utah
+LIU at TCU
+Appalachian St. at Clemson
+Charlotte at North Carolina
+Florida A&M at Miami
+Marshall at Virginia Tech
+Cal Poly at Stanford
+Jacksonville St. at Louisville
+Duquesne at Boston College
+Georgia Tech at Syracuse
+Virginia at Wake Forest
+Arizona State at Texas State
+Arizona at Kansas State
+Boston College at Missouri
+Ole Miss at Wake Forest
+Tulane at Oklahoma
+UTSA at Texas
+Alabama at Wisconsin
+New Mexico at Auburn
+UAB at Arkansas
+Kent State at Tennessee
+Toledo at Mississippi State
+Texas A&M at Florida
+Georgia at Kentucky
+LSU at South Carolina
+Vanderbilt at Georgia State
+Central Mich. at Illinois
+Maryland at Virginia
+Notre Dame at Purdue
+Nevada at Minnesota
+Troy at Iowa
+Northern Iowa at Nebraska
+Arkansas State at Michigan
+Indiana at UCLA
+Washington St. at Washington
+Oregon at Oregon State
+Eastern Illinois at Northwestern
+Prarie View A&M at Michigan State
+Cincinnati at Miami (OH)
+Colorado at Colorado State
+North Texas at Texas Tech
+Oklahoma State at Tulsa
+BYU at Wyoming
+UNLV at Kansas
+West Virginia at Pittsburgh
+Rice at Houston
+Utah at Utah State
+Air Force at Baylor
+UCF at TCU
+San Diego State at Cal
+UConn at Duke
+Ball State at Miami
+Virginia Tech at Old Dominion
+Memphis at Florida State
+NC Central at North Carolina
+West Virginia at Pittsburgh
+VMI at Georgia Tech
+Louisiana Tech at NC State
+Stanford at Syracuse
+Akron at South Carolina
+Ohio at Kentucky
+Bowling Green at Texas A&M
+Georgia Southern at Ole Miss
+UCLA at LSU
+ULM at Texas
+Tennessee at Oklahoma
+Arkansas at Auburn
+Florida at Mississippi State
+Vanderbilt at Missouri
+Charlotte at Indiana
+Michigan State at Boston College
+Purdue at Oregon State
+Rutgers at Virginia Tech
+Kent State at Penn State
+UCLA at LSU
+Marshall at Ohio State
+Villanova at Maryland
+USC at Michigan
+Illinois at Nebraska
+Iowa at Minnesota
+Northwestern at Washington
+TCU at SMU
+Arkansas State at Iowa State
+Arizona State at Texas Tech
+Baylor at Colorado
+Houston at Cincinnati
+Kansas at West Virginia
+Kansas State at BYU
+Utah at Oklahoma State
+James Madison at North Carolina
+Virginia at Coastal Carolina
+Youngstown St. at Pittsburgh
+Miami at USF
+Duke at MTSU
+Cal at Florida State
+Georgia Tech at Louisville
+NC State at Clemson
+Virginia Tech at Miami
+Arkansas vs. Texas A&M
+South Alabama at LSU
+Georgia at Alabama
+Kentucky at Ole Miss
+Mississippi State at Texas
+Oklahoma at Auburn
+Minnesota at Michigan
+Nebraska at Purdue
+Oregon at UCLA
+Washington at Rutgers
+Wisconsin at USC
+Illinois at Penn State
+Maryland at Indiana
+Ohio State at Michigan State
+Arizona at Utah
+BYU at Baylor
+Cincinnati at Texas Tech
+Colorado at UCF
+Iowa State at Houston
+Oklahoma State at Kansas State
+TCU at Kansas
+WKU at Boston College
+Holy Cross at Syracuse
+Louisville at Notre Dame
+NIU at NC State
+Louisiana at Wake Forest
+Florida State at SMU
+North Carolina at Duke
+Stanford at Clemson
+Houston at TCU
+UCF at Florida
+Auburn at Georgia
+Ole Miss vs. South Carolina
+Alabama at Vanderbilt
+Missouri at Texas A&M
+Tennessee at Arkansas
+Michigan at Washington
+Indiana at Northwestern
+Iowa at Ohio State
+Michigan State at Oregon
+Purdue at Wisconsin
+Rutgers at Nebraska
+UCLA at Penn State
+USC at Minnesota
+Baylor at Iowa State
+Kansas at Arizona State
+Texas Tech at Arizona
+West Virginia at Oklahoma State
+Syracuse at UNLV
+Boston College at Virginia
+Clemson at Florida State
+Duke at Georgia Tech
+Miami at Cal
+Pittsburgh at North Carolina
+SMU at Louisville
+Virginia Tech at Stanford
+Wake Forest at NC State
+Utah at Arizona State
+Missouri at UMass
+Florida at Tennessee
+Mississippi State at Georgia
+Ole Miss at LSU
+South Carolina at Alabama
+Texas vs. Oklahoma
+Vanderbilt at Kentucky
+Minnesota at UCLA
+Northwestern at Maryland
+Ohio State at Oregon
+Penn State at USC
+Purdue at Illinois
+Washington at Iowa
+Wisconsin at Rutgers
+Arizona at BYU
+Cincinnati at UCF
+Iowa State at West Virginia
+Kansas State at Colorado
+Stanford at Notre Dame
+Cal at Pittsburgh
+Clemson at Wake Forest
+Georgia Tech at North Carolina
+Louisville at Virginia
+Syracuse at NC State
+Boston College at Virginia Tech
+Florida State at Duke
+Oklahoma State at BYU
+Alabama at Tennessee
+Georgia at Texas
+Auburn at Missouri
+Kentucky at Florida
+LSU at Arkansas
+South Carolina at Oklahoma
+Texas A&M at Mississippi State
+Ball State at Vanderbilt
+Michigan at Illinois
+Iowa at Michigan State
+Nebraska at Indiana
+Oregon at Purdue
+UCLA at Rutgers
+USC at Maryland
+Wisconsin at Northwestern
+Arizona State at Cincinnati
+Baylor at Texas Tech
+Colorado at Arizona
+Houston at Kansas
+Kansas State at West Virginia
+TCU at Utah
+UCF at Iowa State
+Notre Dame at Georgia Tech
+Wake Forest at UConn
+Miami at Louisville
+NC State at Cal
+SMU at Stanford
+Virginia at Clemson
+Syracuse at Pittsburgh
+Louisville at Boston College
+LSU at Texas A&M
+Oklahoma at Ole Miss
+Arkansas at Mississippi State
+Auburn at Kentucky
+Missouri at Alabama
+Texas at Vanderbilt
+Michigan State at Michigan
+Illinois at Oregon
+Maryland at Minnesota
+Nebraska at Ohio State
+Northwestern at Iowa
+Penn State at Wisconsin
+Rutgers at USC
+Washington at Indiana
+BYU at UCF
+Cincinnati at Colorado
+Kansas at Kansas State
+Oklahoma State at Baylor
+Texas Tech at TCU
+Utah at Houston
+West Virginia at Arizona
+Florida State at Miami
+Georgia Tech at Virginia Tech
+North Carolina at Virginia
+SMU at Duke
+Wake Forest at Stanford
+Oregon State at Cal
+UMass at Mississippi State
+Florida vs. Georgia
+Ole Miss at Arkansas
+Kentucky at Tennessee
+Maine at Oklahoma
+Texas A&M at South Carolina
+Vanderbilt at Auburn
+Oregon at Michigan
+Indiana at Michigan State
+Minnesota at Illinois
+Northwestern at Purdue
+Ohio State at Penn State
+UCLA at Nebraska
+USC at Washington
+Wisconsin at Iowa
+Arizona at UCF
+Arizona State at Oklahoma State
+Kansas State at Houston
+TCU at Baylor
+Texas Tech at Iowa State
+Duke at Miami
+Louisville at Clemson
+North Carolina at Florida State
+Pittsburgh at SMU
+Stanford at NC State
+Virginia Tech at Syracuse
+Cal at Wake Forest
+Alabama at LSU
+Georgia at Ole Miss
+Florida at Texas
+Mississippi State at Tennessee
+Oklahoma at Missouri
+South Carolina at Vanderbilt
+Michigan at Indiana
+Iowa at UCLA
+Maryland at Oregon
+Minnesota at Rutgers
+Purdue at Ohio State
+Washington at Penn State
+BYU at Utah
+Colorado at Texas Tech
+Iowa State at Kansas
+Oklahoma State at TCU
+UCF at Arizona State
+West Virginia at Cincinnati
+Florida State at Notre Dame
+Clemson at Virginia Tech
+Duke at NC State
+Miami at Georgia Tech
+Syracuse at Boston College
+Virginia at Pittsburgh
+Houston at Arizona
+Murray State at Kentucky
+New Mexico St. at Texas A&M
+ULM at Auburn
+Mercer at Alabama
+Texas at Arkansas
+Tennessee at Georgia
+LSU at Florida
+Missouri at South Carolina
+Michigan State at Illinois
+Nebraska at USC
+Ohio State at Northwestern
+Oregon at Wisconsin
+Penn State at Purdue
+Rutgers at Maryland
+UCLA at Washington
+Arizona State at Kansas State
+Baylor at West Virginia
+Cincinnati at Iowa State
+Kansas at BYU
+Utah at Colorado
+Virginia at Notre Dame
+Boston College at SMU
+Clemson at Pittsburgh
+Louisville at Stanford
+Syracuse at Cal
+Wake Forest at North Carolina
+NC State at Georgia Tech
+UMass at Georgia
+Louisiana Tech at Arkansas
+Wofford at South Carolina
+UTEP at Tennessee
+Alabama at Oklahoma
+Ole Miss at Florida
+Kentucky at Texas
+Missouri at Mississippi State
+Texas A&M at Auburn
+Vanderbilt at LSU
+Northwestern at Michigan
+Illinois at Rutgers
+Indiana at Ohio State
+Iowa at Maryland
+Penn State at Minnesota
+Purdue at Michigan State
+USC at UCLA
+Wisconsin at Nebraska
+Arizona at TCU
+Baylor at Houston
+BYU at Arizona State
+Cincinnati at Kansas State
+Colorado at Kansas
+Iowa State at Utah
+Texas Tech at Oklahoma State
+UCF at West Virginia
+The Citadel at Clemson
+Charleston So. at Florida State
+UConn at Syracuse
+North Carolina at Boston College
+Pittsburgh at Louisville
+SMU at Virginia
+Stanford at Cal
+Virginia Tech at Duke
+Wake Forest at Miami
+Nebraska at Iowa
+Oklahoma State at Colorado
+Utah at UCF
+Florida at Florida State
+Georgia Tech at Georgia
+South Carolina at Clemson
+Louisville at Kentucky
+Auburn at Alabama
+Mississippi State at Ole Miss
+Texas at Texas A&M
+Arkansas at Missouri
+Oklahoma at LSU
+Tennessee at Vanderbilt
+Notre Dame at USC
+Fresno State at UCLA
+Michigan at Ohio State
+Illinois a Northwestern
+Maryland at Penn State
+Minnesota at Wisconsin
+Purdue at Indiana
+Rutgers at Michigan State
+Washington at Oregon
+Arizona State at Arizona
+Houston at BYU
+Kansas at Baylor
+Kansas State at Iowa State
+TCU at Cincinnati
+West Virginia at Texas Tech
+Virginia at Virginia Tech
+Stanford at San Jose State
+Cal at SMU
+Duke at Wake Forest
+Miami at Syracuse
+NC State at North Carolina
+Pittsburgh at Boston College
