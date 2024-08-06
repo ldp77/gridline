@@ -21,7 +21,7 @@ import json
 from bs4 import BeautifulSoup
 import common_utils
 
-DATA_BASE_DIRECTORY = '524-01'
+DATA_BASE_DIRECTORY = '824-01'
 
 class MatchupSide:
     '''

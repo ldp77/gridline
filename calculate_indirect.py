@@ -4,7 +4,7 @@ import hashlib
 import common_utils
 
 SAVE_INDIRECT_LINES = True
-BASE_DIRECTORY = "524-01/json"
+BASE_DIRECTORY = "824-01/json"
 
 # Initialize the table to keep track of known lines
 all_team_names = set(list(initial_lines_df['home_team']) + list(initial_lines_df['away_team']))
@@ -20,7 +20,7 @@ for i in range(len(initial_lines_df)):
 # Iterative process whereby we calculate any new lines that we can, then incorporate these new lines during the next iteration
 n = 1
 current_lines_df = initial_lines_df
-while True: # For now, go forever, but eventually will change this
+while n == 1 or len(new_lines) > 0:
     print(f'Iteration {n}')
 
     new_lines = []

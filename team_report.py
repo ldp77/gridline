@@ -3,7 +3,7 @@ import pandas as pd
 import json
 import math
 
-DATA_BASE_DIRECTORY = '524-01'
+DATA_BASE_DIRECTORY = '824-01'
 
 with open(f'{DATA_BASE_DIRECTORY}/json/fpi.json', 'r') as infile:
     team_fpi = json.loads(infile.read())

@@ -2,7 +2,7 @@ import pandas as pd
 import common_utils
 import json
 
-DATA_BASE_DIRECTORY = '524-01'
+DATA_BASE_DIRECTORY = '824-01'
 df = pd.read_csv(f'{DATA_BASE_DIRECTORY}/csv/espn-fpi.csv')
 
 # Create a mapping between a team's standardized name and their FPI
