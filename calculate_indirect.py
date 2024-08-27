@@ -4,7 +4,7 @@ import hashlib
 import common_utils
 
 SAVE_INDIRECT_LINES = True
-BASE_DIRECTORY = "824-01/json"
+BASE_DIRECTORY = "824-02/json"
 
 # Initialize the table to keep track of known lines
 all_team_names = set(list(initial_lines_df['home_team']) + list(initial_lines_df['away_team']))

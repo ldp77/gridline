@@ -1,6 +1,6 @@
 import requests
 
-DATA_BASE_DIRECTORY='824-01'
+DATA_BASE_DIRECTORY='824-02'
 
 url = 'https://sportsbook.draftkings.com/leagues/football/ncaaf'
 resp = requests.get(url)

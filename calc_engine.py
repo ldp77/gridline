@@ -3,7 +3,7 @@ import pandas as pd
 import common_utils
 
 HOME_FIELD_ADVANTAGE = 3
-DATA_BASE_DIRECTORY = '824-01'
+DATA_BASE_DIRECTORY = '824-02'
 DEBUG = False
 
 # Specify the files (in order) to read lines from
@@ -12,7 +12,7 @@ infilenames = [
     'draftkings.json',
     # 'vegasinsider.json'
 ]
-infilenames += [f'indirectlines-{n}.json' for n in range(1,8)]
+infilenames += [f'indirectlines-{n}.json' for n in range(1,9)]
 infilenames = [f'{DATA_BASE_DIRECTORY}/json/{filename}' for filename in infilenames]
 
 all_game_lines = []

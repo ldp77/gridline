@@ -140,7 +140,7 @@ TEAM_ALIASES = {
     "Mississippi State": {},
     "Ole Miss": {"Mississippi"},
     "Texas A&M": {},
-    "Appalachian State": {"Appalachian St."},
+    "Appalachian State": {"Appalachian St.", "App State"},
     "Coastal Carolina": {},
     "Georgia Southern": {},
     "Georgia State": {},

@@ -35,12 +35,12 @@ def handle_no_line(team1, team2):
     fpis = {fpi['team_name']: fpi['fpi'] for fpi in fpis}
 
     # Accounting for FCS teams
-    # We don't currently have FPI data for FCS teams, so we assign an FPI of -17 to any FCS team
+    # We don't currently have FPI data for FCS teams, so we assign an FPI of -19 to any FCS team
     # This is roughly equivalent to the worst FBS team
     if team1 not in fpis:
-        fpis[team1] = -17
+        fpis[team1] = -19
     if team2 not in fpis:
-        fpis[team2] = -17
+        fpis[team2] = -19
 
     favorite = team1 if fpis[team1] > fpis[team2] else team2
     line = abs(fpis[team1] - fpis[team2])
