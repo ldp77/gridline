@@ -1,0 +1,33 @@
+services:
+  front-end:
+    build:
+      context: ./services/front-end
+    ports:
+      - "8080:80"
+  core-api:
+    build:
+      context: ./services/core-api
+      dockerfile: Dockerfile
+    ports:
+      - "8081:8080"
+    env_file:
+      - .env
+    environment:
+      DATABASE_URL: "postgres://${POSTGRES_USER}:${POSTGRES_PASSWORD}@${POSTGRES_HOST}:${POSTGRES_PORT}/${POSTGRES_DB}?sslmode=disable"
+  postgres:
+    build:
+      context: ./databases/postgres
+      dockerfile: Dockerfile
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSRGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    env_file:
+      - .env
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./databases/postgres/init.sql:/docker-entrypoint-initdb.d/init.sql:ro
+  mongodb:
+    build:
+      context: ./databases/mongodb
+      dockerfile: Dockerfile
