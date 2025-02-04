@@ -23,6 +23,24 @@ func linesHandler(w http.ResponseWriter, r *http.Request) {
 	}
 }
 
+func matchupsHandler(w http.ResponseWriter, r *http.Request) {
+	switch r.Method {
+	case http.MethodPost:
+		PostMatchupsHandler(w, r)
+	case http.MethodGet:
+		GetMatchupsHandler(w, r)
+	}
+}
+
+func fpisHandler(w http.ResponseWriter, r *http.Request) {
+	switch r.Method {
+	case http.MethodPost:
+		PostFpisHandler(w, r)
+	case http.MethodGet:
+		GetFpisHandler(w, r)
+	}
+}
+
 var db *pgxpool.Pool
 
 func main() {
@@ -45,6 +63,8 @@ func main() {
 	log.Print("Starting server on :8080")
 
 	http.HandleFunc("/lines", linesHandler)
+	http.HandleFunc("/matchups", matchupsHandler)
+	http.HandleFunc("/fpis", fpisHandler)
 
 	http.ListenAndServe(":8080", nil)
 }
